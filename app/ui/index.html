@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blackbox</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark"></span>BLACKBOX</div>
+    <div id="status" class="status"></div>
+    <button id="scan" class="btn" data-t="Jetzt scannen|Scan now">Scan now</button>
+  </header>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="nav-title" data-t="Spiele|Games">Games</div>
+      <div id="games" class="nav-list"></div>
+      <div class="nav-title" data-t="System|System">System</div>
+      <div class="nav-list">
+        <button class="nav-item" data-view="vault"><span id="vault-dot" class="dot"></span><span class="name">Loadout Vault</span></button>
+        <button class="nav-item" data-view="changes" data-t="Änderungsjournal|Change journal">Change journal</button>
+        <button class="nav-item" data-view="state" data-t="Systemzustand|System state">System state</button>
+        <button class="nav-item" data-view="settings" data-t="Einstellungen|Settings">Settings</button>
+      </div>
+    </nav>
+    <main id="main" class="main"></main>
+  </div>
+  <script src="demo.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
