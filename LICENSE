@@ -1,16 +1,58 @@
+Blackbox License
+
 Copyright (c) 2026 Felix Spiß. All rights reserved.
 
-This software, including its source code, documentation, graphics and all
-associated files, is protected by copyright and is the property of
-Felix Spiß.
+This license applies to Blackbox, including its source code, executables,
+installer, documentation, graphics and all associated files (the "Software").
 
-No part of this software may be used, executed, copied, modified, merged,
-published, distributed, sublicensed, sold or made available to third parties
-without the prior express written permission of the copyright holder.
+1. Permitted use
 
-Access to the source code, for example through a public repository, does not
-grant any right of use.
+   You may download, install and use the Software free of charge, for private
+   or business purposes, on any number of your own computers. You may build
+   the unmodified source code for your own use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. TO THE EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
-LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
+2. Restrictions
+
+   Without the prior express written permission of the copyright holder, you
+   may not:
+
+   a) modify, adapt, translate or otherwise change the Software, or create
+      derivative works based on it, in whole or in part;
+   b) sell, resell, rent, lease, lend or sublicense the Software, or charge
+      for it in any way;
+   c) distribute, publish or make the Software available to third parties,
+      including by re-hosting it, bundling it with other software or offering
+      it for download; the Software is obtained from its official source only;
+   d) reverse engineer, decompile or disassemble the executables, except to
+      the extent that applicable law expressly permits this despite this
+      restriction;
+   e) remove or alter copyright notices, license texts or other proprietary
+      notices.
+
+3. Third-party components
+
+   The Software includes components of third parties, such as PresentMon by
+   Intel Corporation. They remain subject to their own licenses, which are
+   included with the Software. This license does not restrict any rights you
+   have under those licenses.
+
+4. Ownership
+
+   The Software is licensed, not sold. All rights not expressly granted in
+   this license remain with the copyright holder.
+
+5. Termination
+
+   This license ends automatically if you violate any of its terms. You must
+   then stop using the Software and delete all copies.
+
+6. No warranty, limitation of liability
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. TO THE EXTENT
+   PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+For permissions beyond this license, contact the copyright holder through the
+official repository: https://github.com/Felixitus/blackbox

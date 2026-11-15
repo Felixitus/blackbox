@@ -28,6 +28,12 @@ Blackbox injects nothing into games and changes nothing on the system. The
 only write outside its own folder is restoring a game setting, and only when
 you ask for it. All data stays local.
 
+## Download
+
+The installer is available on the
+[releases page](https://github.com/Felixitus/blackbox/releases). It installs
+for the current Windows user only and needs no administrator rights.
+
 ## Build
 
 Requirements: Rust (stable, MSVC), Visual Studio 2022 with C++ tools and the
@@ -54,6 +60,6 @@ The installer contains [PresentMon](https://github.com/GameTechDev/PresentMon)
 
 ## License
 
-Proprietary. Copyright (c) 2026 Felix Spiß, all rights reserved. Use,
-copying, modification or distribution only with written permission, see
-[LICENSE](LICENSE).
+Copyright (c) 2026 Felix Spiß. Free to download and use, privately or in a
+business. Modifying, selling or redistributing the software is not permitted
+without written permission. See [LICENSE](LICENSE) for the full terms.
